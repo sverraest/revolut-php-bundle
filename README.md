@@ -9,6 +9,8 @@ Symfony Bundle for RevolutPHP - https://github.com/sverraest/revolut-php
 
 ## Installation
 
+This bundle is for Symfony3 and higher.
+
 ### Step 1: Download the Bundle
 
 Open a command console, enter your project directory and execute the
