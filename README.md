@@ -1,5 +1,10 @@
 # RevolutPHPBundle 
 
+[![Build Status](https://travis-ci.org/sverraest/revolut-php-bundle.svg?branch=master)](https://travis-ci.org/sverraest/revolut-php-bundle)
+[![codecov](https://codecov.io/gh/sverraest/revolut-php-bundle/branch/master/graph/badge.svg)](https://codecov.io/gh/sverraest/revolut-php-bundle)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sverraest/revolut-php-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sverraest/revolut-php-bundle/?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/be29d03a42b4cfcc449e/maintainability)](https://codeclimate.com/github/sverraest/revolut-php-bundle/maintainability)
+
 ## Installation
 
 ### Step 1: Download the Bundle
