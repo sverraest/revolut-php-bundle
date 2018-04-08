@@ -1,5 +1,7 @@
 # RevolutPHPBundle 
 
+Symfony Bundle for RevolutPHP - https://github.com/sverraest/revolut-php
+
 [![Build Status](https://travis-ci.org/sverraest/revolut-php-bundle.svg?branch=master)](https://travis-ci.org/sverraest/revolut-php-bundle)
 [![codecov](https://codecov.io/gh/sverraest/revolut-php-bundle/branch/master/graph/badge.svg)](https://codecov.io/gh/sverraest/revolut-php-bundle)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sverraest/revolut-php-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sverraest/revolut-php-bundle/?branch=master)
