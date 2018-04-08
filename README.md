@@ -60,7 +60,7 @@ sverraest_revolut_php:
     mode: 'production' # options are production or sandbox
 ```
 
-### Step 4: Get the RevolutPHP Service or Autowire it
+### Step 4: Get the RevolutPHP Service
 
 You can get an instance of the public RevolutPHP Service or autowire it.
 ```php
